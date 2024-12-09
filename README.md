@@ -10,4 +10,5 @@ python -m venv venv
 dependencias a serem instaladas na venv
 
 pip install webdriver-manager
+
 pip install selenium
