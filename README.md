@@ -12,3 +12,7 @@ dependencias a serem instaladas na venv
 pip install webdriver-manager
 
 pip install selenium
+
+pip install pandas
+
+pip install openpyxl
